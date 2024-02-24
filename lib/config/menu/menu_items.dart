@@ -33,5 +33,10 @@ class MenuItem {
         subTitle: 'Indicadores en pantalla',
         link: '/snackbars',
         icon: Icons.info_outline),
+    MenuItem(
+        title: 'Animated Container',
+        subTitle: 'Stafull widget animado',
+        link: '/animated',
+        icon: Icons.check_box_outlined),
   ];
 }
