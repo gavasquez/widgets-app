@@ -38,5 +38,10 @@ class MenuItem {
         subTitle: 'Stafull widget animado',
         link: '/animated',
         icon: Icons.check_box_outlined),
+    MenuItem(
+        title: 'Ui Controls + titles',
+        subTitle: 'Una serie de controles de Flutter',
+        link: '/ui-controlls',
+        icon: Icons.car_rental_outlined),
   ];
 }
