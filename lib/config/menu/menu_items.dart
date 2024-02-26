@@ -43,5 +43,10 @@ class MenuItem {
         subTitle: 'Una serie de controles de Flutter',
         link: '/ui-controlls',
         icon: Icons.car_rental_outlined),
+    MenuItem(
+        title: 'Introducción a la aplicación',
+        subTitle: 'Pequeño tutorial de la aplicación',
+        link: '/tutotial',
+        icon: Icons.accessibility_rounded),
   ];
 }
